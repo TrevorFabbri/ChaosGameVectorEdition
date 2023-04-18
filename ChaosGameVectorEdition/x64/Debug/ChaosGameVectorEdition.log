@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\Trevor\source\repos\ChaosGameVectorEdition\main.cpp(79,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Trevor\source\repos\ChaosGameVectorEdition\main.cpp(80,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Trevor\source\repos\ChaosGameVectorEdition\main.cpp(99,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Trevor\source\repos\ChaosGameVectorEdition\main.cpp(100,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ChaosGameVectorEdition.vcxproj -> C:\Users\Trevor\source\repos\ChaosGameVectorEdition\x64\Debug\ChaosGameVectorEdition.exe
